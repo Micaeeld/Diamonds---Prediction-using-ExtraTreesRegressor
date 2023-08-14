@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Diamond Price Forecast
 This notebook uses data from a diamond dataset available on Kaggle to build a regression model capable of predicting the price of a diamond based on its characteristics.
 
